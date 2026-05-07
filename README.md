@@ -21,9 +21,9 @@ Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético
 
 ## Ingeniería de Sistemas: Del entorno físico al digital
 Mi enfoque actual se centra en integrar mi experiencia en análisis de sistemas de potencia y estrategia energética con las capacidades que ofrecen el Cloud, DevOps y la IA:
-* **De la Fiabilidad del Sistema a la Resiliencia Digital*: Aplico el rigor del análisis de incidentes y la operación en tiempo real de la red eléctrica al diseño de sistemas digitales robustos y seguros.
-* **De la Simulación al Deep Learning*: Evoluciono el uso de herramientas tradicionales (como PSS/E o Matlab) hacia modelos de aprendizaje profundo para el análisis predictivo y la optimización de activos complejos.
-* **Innovación con Impacto*: Mi rol en Elewit me permite conectar los retos estratégicos de la transición energética con soluciones tecnológicas avanzadas, automatizando procesos para escalar la eficiencia.
+* **De la Fiabilidad del Sistema a la Resiliencia Digital**: Aplico el rigor del análisis de incidentes y la operación en tiempo real de la red eléctrica al diseño de sistemas digitales robustos y seguros.
+* **De la Simulación al Deep Learning**: Evoluciono el uso de herramientas tradicionales (como PSS/E o Matlab) hacia modelos de aprendizaje profundo para el análisis predictivo y la optimización de activos complejos.
+* **Innovación con Impacto**: Mi rol en Elewit me permite conectar los retos estratégicos de la transición energética con soluciones tecnológicas avanzadas, automatizando procesos para escalar la eficiencia.
 
 ---
 
