@@ -1,7 +1,6 @@
 # Lucia Mateo
 
-### Ingeniera Eléctrica | Cloud, DevOps & AI Specialist
-
+### Ingeniera Eléctrica | Cloud, DevOps & AI 
 Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético, especializada en la fiabilidad y el comportamiento dinámico de sistemas eléctricos de potencia. Actualmente, integro mi base en ingeniería de sistemas eléctricos de potencia con Cloud, DevOps e IA para liderar la transformación digital y la innovación en el sector energético.
 
 ---
