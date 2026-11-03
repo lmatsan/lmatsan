@@ -36,3 +36,15 @@ Mi enfoque actual se centra en integrar mi experiencia en análisis de sistemas 
 **Desarrollo e IA**
 * **Lenguajes:** Python (Avanzado), Matlab, VBA.
 * **Inteligencia Artificial:** Machine y Deep Learning (en curso), Vector Databases.
+
+---
+
+## Proyectos del Máster en IA
+
+| Proyecto | Qué demuestra |
+|---|---|
+| [Economicon (TFM)](https://github.com/EconomiconFinOps/tfm-economicon) | Trabajo de fin de máster: plataforma con backend, frontend, asistente de IA, CI/CD y especificaciones con OpenSpec |
+| [Asistente turístico de Tenerife](https://github.com/lmatsan/tenerife-asistente-rag) | RAG sobre un PDF con ChromaDB y function calling con Gemini |
+| [Aurum Market](https://github.com/lmatsan/aurum-market-busqueda-semantica) | Búsqueda semántica y control de catálogo con embeddings y Chroma |
+| [Finetuning de Stable Diffusion](https://github.com/lmatsan/stable-diffusion-finetuning-libros-antiguos) | Finetuning completo con ilustraciones de libros antiguos |
+| [Cancelaciones hoteleras](https://github.com/lmatsan/hotel-cancelaciones-ml) | Comparativa de modelos de Machine Learning (con Paris Arcos) |
