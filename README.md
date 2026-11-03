@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Lucia Mateo: de los sistemas eléctricos a las redes neuronales" width="100%">
+  <img src="cabecera.svg" alt="Lucia Mateo: de los sistemas eléctricos a las redes neuronales" width="100%">
 </p>
 
 Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético, especializada en la fiabilidad y el comportamiento dinámico de sistemas eléctricos de potencia. Ahora uno esa base con Cloud, DevOps e IA para contribuir a la transformación digital del sector energético.
@@ -54,5 +54,5 @@ Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético
 </details>
 
 <p align="center">
-  <img src="footer.svg" alt="Cloud, DevOps e IA aplicados al sector energético" width="100%">
+  <img src="cierre.svg" alt="Cloud, DevOps e IA aplicados al sector energético" width="100%">
 </p>
