@@ -52,3 +52,7 @@ Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético
 - **Inteligencia Artificial:** Machine y Deep Learning (en curso), bases de datos vectoriales.
 
 </details>
+
+<p align="center">
+  <img src="footer.svg" alt="Cloud, DevOps e IA aplicados al sector energético" width="100%">
+</p>
