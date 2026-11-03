@@ -12,7 +12,7 @@ Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-44403c?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-44403c?style=flat-square&logo=mathworks&logoColor=white)
 
-## Proyectos del Máster en IA
+## Proyectos en IA
 
 | Proyecto | Qué demuestra |
 |---|---|
