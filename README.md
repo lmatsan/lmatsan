@@ -16,7 +16,7 @@ Ingeniera Eléctrica con más de 9 años de experiencia en el sector energético
 
 | Proyecto | Qué demuestra |
 |---|---|
-| [Economicon (TFM)](https://github.com/EconomiconFinOps/tfm-economicon) | Trabajo de fin de máster: plataforma con backend, frontend, asistente de IA, CI/CD y especificaciones con OpenSpec |
+| [Economicon (TFM)](https://github.com/EconomiconFinOps/tfm-economicon) | Asistente FinOps: ayuda a entender y controlar el gasto en la nube. Analiza los costes, detecta anomalías y responde preguntas con un asistente de IA. Trabajo en equipo, con frontend en React, API en FastAPI, procesado asíncrono y despliegue con Docker |
 | [Asistente turístico de Tenerife](https://github.com/lmatsan/tenerife-asistente-rag) | RAG sobre un PDF con ChromaDB y function calling con Gemini |
 | [Aurum Market](https://github.com/lmatsan/aurum-market-busqueda-semantica) | Búsqueda semántica y control de catálogo con embeddings y Chroma |
 | [Finetuning de Stable Diffusion](https://github.com/lmatsan/stable-diffusion-finetuning-libros-antiguos) | Finetuning completo con ilustraciones de libros antiguos |
